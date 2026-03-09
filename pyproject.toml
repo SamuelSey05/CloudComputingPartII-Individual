@@ -1,0 +1,7 @@
+[project]
+name = "cloudcomputingpartii-individual"
+version = "0.1.0"
+description = "Individual component of Cloud Computing Assignemnt II"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
